@@ -4,7 +4,7 @@
 
 The project combines **3D printing, CNC machining, waterproof electronics, GPS, sonar, cameras, sensors and open-source autopilot software** to explore how far an individual maker can push accessible desktop manufacturing.
 
-![SEEKR Project Preview](docs/images/seekr-preview.jpg)
+![SEEKR Project Preview](docs/images/SEEKR_fusion_render.png)
 
 ---
 
