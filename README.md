@@ -10,7 +10,13 @@
 
 The project combines **3D printing, CNC machining, waterproof electronics, GPS, sonar, cameras, sensors and open-source autopilot software** to explore how far an individual maker can push accessible desktop manufacturing.
 
+> This repository is being created as the public build log and documentation space for SEEKR. More CAD files, photos, electronics notes, test results and videos will be added as the project develops.
+
 ![SEEKR Project Preview](docs/images/SEEKR_fusion_render.png)
+
+*Current CAD/render preview of SEEKR’s modular twin-pontoon autonomous water platform.*
+
+---
 
 ## First Real-World Float Test
 
@@ -22,7 +28,7 @@ This kind of testing is a big part of the project. Every test shows what works, 
 
 ![First Float Test](docs/images/first-float-test.jpg)
 
-*First real-world float test of SEEKR’s physical twin-pontoon platform.*
+*First real-world float test of SEEKR’s physical twin-pontoon platform in my pond.*
 
 ---
 
@@ -76,6 +82,25 @@ Completed or in progress:
 - ArduPilot / ArduRover research and setup planning
 
 The project is still evolving through real-world testing, redesign and iteration.
+
+---
+
+## Next Development Goals
+
+The next stage of SEEKR is focused on making the platform more reliable, modular and capable in real-world water conditions.
+
+Planned development areas include:
+
+- Stronger 3D printed parts using engineering materials
+- Improved waterproof electronics enclosure
+- Better buoyancy and weight distribution
+- More serviceable cable routing and connectors
+- Autonomous GPS-based route following
+- Sonar-based depth mapping
+- Camera and sensor modules
+- AI-based object identification experiments
+- Obstacle avoidance testing
+- More complete build documentation
 
 ---
 
@@ -137,7 +162,7 @@ This could be useful for:
 
 ### Underwater Search
 
-SEEKR could eventually help search for lost objects underwater, such as:
+A future version of SEEKR is intended to help search for lost objects underwater, such as:
 
 - Tools
 - Phones
@@ -153,7 +178,7 @@ Instead of searching randomly, the boat could scan a defined area systematically
 
 A future goal is to add cameras and multiple sensors for AI-based object identification and obstacle avoidance.
 
-The boat could eventually detect:
+For an autonomous boat to be useful in real-world environments, it needs to understand more than just its GPS position. A future sensor-equipped version of the boat could detect:
 
 - Floating debris
 - Buoys
