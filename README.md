@@ -1,10 +1,28 @@
 # SEEKR — DIY Autonomous Water Mapping Platform
 
+![Status](https://img.shields.io/badge/status-in%20development-blue)
+![Platform](https://img.shields.io/badge/platform-autonomous%20boat-green)
+![Built with](https://img.shields.io/badge/built%20with-3D%20printing-orange)
+![CAD](https://img.shields.io/badge/CAD-Fusion%20360-lightgrey)
+![Goal](https://img.shields.io/badge/goal-lake%20mapping%20%7C%20search%20%7C%20inspection-blueviolet)
+
 **SEEKR** is a DIY autonomous water platform designed for lake mapping, underwater search, inspection, environmental data collection and future AI-based object identification.
 
 The project combines **3D printing, CNC machining, waterproof electronics, GPS, sonar, cameras, sensors and open-source autopilot software** to explore how far an individual maker can push accessible desktop manufacturing.
 
 ![SEEKR Project Preview](docs/images/SEEKR_fusion_render.png)
+
+## First Real-World Float Test
+
+This was the first real-world buoyancy and stability test of the SEEKR platform in water.
+
+Before adding the full electronics enclosure, batteries, sensors and autonomous systems, I tested the base platform in my pond to evaluate how the twin-pontoon design behaved in real conditions. The test helped validate the basic floating platform and gave me useful information about buoyancy, balance, weight distribution and future improvements.
+
+This kind of testing is a big part of the project. Every test shows what works, what needs to be redesigned, and what needs to be stronger, lighter or more modular.
+
+![First Float Test](docs/images/first-float-test.jpg)
+
+*First real-world float test of SEEKR’s physical twin-pontoon platform.*
 
 ---
 
